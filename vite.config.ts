@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: './',
+    base: '/arrange-words-to-make-sentences/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
