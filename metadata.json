@@ -1,0 +1,8 @@
+{
+  "name": "Game xếp từ thành câu",
+  "description": "Tạo game xếp từ thành câu\n",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
